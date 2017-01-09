@@ -1,0 +1,8 @@
+/* Put CSS rules here */
+body {
+	background-color: papayawhip;
+}
+
+.testdiv {
+	border: 2px solid black;
+}
